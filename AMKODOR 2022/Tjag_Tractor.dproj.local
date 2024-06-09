@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.221,C:\Users\An\Dropbox\Delphi\AMKODOR\Wywod_TRactor.pas=C:\Users\An\Dropbox\Delphi\AMKODOR\Wywod_TTRactor.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.437,C:\Users\An\Documents\Embarcadero\Studio\Projects\TR_forma.dfm=C:\Users\An\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.927,C:\Users\An\Dropbox\Delphi\AMKODOR\Wywod_TR.pas=C:\Users\An\Dropbox\Delphi\AMKODOR\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,C:\Users\An\Documents\Embarcadero\Studio\Projects\AlsZF_GMP.dproj=C:\Users\An\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.734,C:\Users\An\Dropbox\Delphi\AMKODOR\TTractor_forma.pas=C:\Users\An\Dropbox\Delphi\AMKODOR\TR_forma.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.437,C:\Users\An\Documents\Embarcadero\Studio\Projects\TR_forma.pas=C:\Users\An\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.864,C:\Users\An\Dropbox\Delphi\AMKODOR\TR_forma.pas=C:\Users\An\Documents\Embarcadero\Studio\Projects\TR_forma.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.381,C:\Users\An\Dropbox\Delphi\AMKODOR\AlsZF_GMP.dproj=C:\Users\An\Documents\Embarcadero\Studio\Projects\AlsZF_GMP.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.794,C:\Users\An\Dropbox\Delphi\AMKODOR\Wywod_TR.pas=C:\Users\An\Dropbox\Delphi\AMKODOR\Wywod_TRactor.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.173,C:\Users\An\Dropbox\Delphi\AMKODOR\Tjag_Tractor.dproj=C:\Users\An\Dropbox\Delphi\AMKODOR\AlsZF_GMP.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.221,C:\Users\An\Dropbox\Delphi\AMKODOR\Wywod_TRactor.dfm=C:\Users\An\Dropbox\Delphi\AMKODOR\Wywod_TTRactor.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.039,=C:\Users\An\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.864,C:\Users\An\Dropbox\Delphi\AMKODOR\TR_forma.dfm=C:\Users\An\Documents\Embarcadero\Studio\Projects\TR_forma.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.938,=C:\Users\An\Dropbox\Delphi\AMKODOR\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.734,C:\Users\An\Dropbox\Delphi\AMKODOR\TTractor_forma.dfm=C:\Users\An\Dropbox\Delphi\AMKODOR\TR_forma.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.927,C:\Users\An\Dropbox\Delphi\AMKODOR\Wywod_TR.dfm=C:\Users\An\Dropbox\Delphi\AMKODOR\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.794,C:\Users\An\Dropbox\Delphi\AMKODOR\Wywod_TR.dfm=C:\Users\An\Dropbox\Delphi\AMKODOR\Wywod_TRactor.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

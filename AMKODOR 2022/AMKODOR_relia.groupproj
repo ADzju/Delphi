@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{A5C47598-30C2-4089-B983-0C80F40B8A5F}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Relia_AMKO_2015.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Relia_AMKO_2015">
+        <MSBuild Projects="Relia_AMKO_2015.dproj"/>
+    </Target>
+    <Target Name="Relia_AMKO_2015:Clean">
+        <MSBuild Projects="Relia_AMKO_2015.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Relia_AMKO_2015:Make">
+        <MSBuild Projects="Relia_AMKO_2015.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Relia_AMKO_2015"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Relia_AMKO_2015:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Relia_AMKO_2015:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

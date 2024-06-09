@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.475,=C:\Users\An\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.305,C:\Users\An\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\An\Dropbox\Delphi\AMKODOR\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.458,C:\Users\An\Dropbox\Delphi\AMKODOR\Amko_120tyaga.dproj=C:\Users\An\Dropbox\Delphi\AMKODOR\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.509,C:\Users\An\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\An\Dropbox\Delphi\AMKODOR\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.509,C:\Users\An\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\An\Dropbox\Delphi\AMKODOR\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.362,C:\Users\An\Dropbox\Delphi\AMKODOR\tyaga.dfm=C:\Users\An\Dropbox\Delphi\AMKODOR\tyaga120_6x3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.446,C:\Users\An\Dropbox\Delphi\AMKODOR\tyaga.dfm=C:\Users\An\Dropbox\Delphi\AMKODOR\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.446,C:\Users\An\Dropbox\Delphi\AMKODOR\tyaga.pas=C:\Users\An\Dropbox\Delphi\AMKODOR\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.362,C:\Users\An\Dropbox\Delphi\AMKODOR\tyaga.pas=C:\Users\An\Dropbox\Delphi\AMKODOR\tyaga120_6x3.pas</Transaction>
+  </Transactions>
+</BorlandProject>

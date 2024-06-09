@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{211B54C8-85D3-414F-9159-76BAAB85AA5F}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Amko_120tyaga.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\..\OneDrive\RAD Studio\Projects\GMP_all.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Amko_120tyaga">
+        <MSBuild Projects="Amko_120tyaga.dproj"/>
+    </Target>
+    <Target Name="Amko_120tyaga:Clean">
+        <MSBuild Projects="Amko_120tyaga.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Amko_120tyaga:Make">
+        <MSBuild Projects="Amko_120tyaga.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="GMP_all">
+        <MSBuild Projects="..\..\..\OneDrive\RAD Studio\Projects\GMP_all.dproj"/>
+    </Target>
+    <Target Name="GMP_all:Clean">
+        <MSBuild Projects="..\..\..\OneDrive\RAD Studio\Projects\GMP_all.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="GMP_all:Make">
+        <MSBuild Projects="..\..\..\OneDrive\RAD Studio\Projects\GMP_all.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Amko_120tyaga;GMP_all"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Amko_120tyaga:Clean;GMP_all:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Amko_120tyaga:Make;GMP_all:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

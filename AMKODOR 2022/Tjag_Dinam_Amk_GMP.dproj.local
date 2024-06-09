@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.505,C:\Users\An\Dropbox\Delphi\AMKODOR\TR_forma.dfm=C:\Users\An\Dropbox\Delphi\AMKODOR\TDinR_forma.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,C:\Users\An\Dropbox\Dropbox\Delphi\AMKODOR\Tjag_Dinam_AMK.dproj=C:\Users\An\Dropbox\Dropbox\Delphi\AMKODOR\Tjag_Dinam_Amk_GMP.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.567,C:\Users\An\Dropbox\Delphi\AMKODOR\Wywod_TR.pas=C:\Users\An\Dropbox\Delphi\AMKODOR\Wywod_TDinR.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.697,C:\Users\An\Dropbox\Delphi\AMKODOR\AlsZF_GMP.dproj=C:\Users\An\Dropbox\Delphi\AMKODOR\Tjag_Dinam_AMK.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,C:\Users\An\Dropbox\Delphi\AMKODOR\TR_forma.pas=C:\Users\An\Dropbox\Delphi\AMKODOR\TDinR_forma.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.567,C:\Users\An\Dropbox\Delphi\AMKODOR\Wywod_TR.dfm=C:\Users\An\Dropbox\Delphi\AMKODOR\Wywod_TDinR.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

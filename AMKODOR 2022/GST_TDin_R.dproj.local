@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.278,=C:\Users\An\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,C:\Users\An\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\An\Dropbox\Delphi\AMKODOR\GST_dinam.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.435,C:\Users\An\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\An\Dropbox\Delphi\AMKODOR\GST_TDin_R.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,C:\Users\An\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\An\Dropbox\Delphi\AMKODOR\GST_dinam.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

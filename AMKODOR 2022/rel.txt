@@ -1,0 +1,2 @@
+[Path]
+ComStr=D:\PyProject\test4.txt
